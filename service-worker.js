@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Find-me-a-Frontend-Developer/precache-manifest.9aeff46b48c69785e291b110d30f1c26.js"
+  "/find-me-a-frontend-developer/precache-manifest.382f620f38e895d218deb072de06fd6c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Find-me-a-Frontend-Developer/index.html", {
+workbox.routing.registerNavigationRoute("/find-me-a-frontend-developer/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
