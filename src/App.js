@@ -98,7 +98,7 @@ class App extends Component {
     if (result.length === 1) {
       this.setState({ result: result[0] });
     } else {
-      this.setState({ result: 'Undetermined' });
+      this.setState({ result: 'На основе ваших ответов мы не смогли подыскать кандидатов с релевантным опытом работы. Попробуйте еще раз!' });
     }
   }
 
