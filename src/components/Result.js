@@ -22,7 +22,7 @@ function Result(props) {
             type="button"
             onClick={(e) => {
               e.preventDefault();
-              window.location.href='/';
+                window.location.reload();
             }}
         > Спасибо, я пройду тест еще раз
         </button>
