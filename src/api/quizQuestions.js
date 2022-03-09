@@ -71,7 +71,7 @@ var quizQuestions = [
                     "\n" +
                     "Посмотреть вакансии: https://cutt.ly/hmo9UTe\n" +
                     "\n",
-                content: "Конечно, опыт разработки в коммерческих проектах нужен. Хотя бы года 2-3 в JS"
+                content: "Конечно, опыт разработки в коммерческих проектах нужен. Хотя бы года 2-3 в JS, React + TypeScript"
             },
             {
                 type: "Итак, вам подходит лучше всего Senior Frontend developer. \n" +
